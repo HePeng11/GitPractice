@@ -23,3 +23,12 @@ hello world
 7.git remote add origin https://github.com/HePeng11/GitPractice.git 添加远程仓库地址
 
 8.git push -u origin master 推送到远程仓库
+
+9. git remote add origin git@IP:relativeDir.git，添加完成后会在本地.git/config文件中看到添加的url，也可以修改这个url
+   git pull origin master 拉取远程代码
+
+10 git branch 查看分支
+
+11 git branch testBranch1 创建分支
+
+12 git checkout testBrach1 切换到分支
