@@ -15,4 +15,4 @@ hello world
 
 4.git commit -m "描述信息"  提交到本地库
 
-
+5.git rm xxx.txt 
