@@ -32,3 +32,5 @@ hello world
 11 git branch testBranch1 创建分支
 
 12 git checkout testBrach1 切换到分支
+
+13 git merge testBranch1 主分支合并xxx分支
