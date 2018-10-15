@@ -1,0 +1,20 @@
+hello world
+
+
+
+
+
+
+
+
+1.git init 初始化一个库
+
+2.git add . 添加文件到库管理
+
+3.git status  查看状态
+
+4.git commit -m "描述信息"  提交到本地库
+
+5.git rm xxx.txt 删除文件
+
+6.git  log 查看日志
