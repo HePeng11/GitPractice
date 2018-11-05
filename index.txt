@@ -7,30 +7,30 @@ hello world
 
 
 
-1.git init ³õÊ¼»¯Ò»¸ö¿â
+1.git init åˆå§‹åŒ–ä¸€ä¸ªåº“
 
-2.git add . Ìí¼ÓÎÄ¼şµ½¿â¹ÜÀí
+2.git add . æ·»åŠ æ–‡ä»¶åˆ°åº“ç®¡ç†
 
-3.git status  ²é¿´×´Ì¬
+3.git status  æŸ¥çœ‹çŠ¶æ€
 
-4.git commit -m "ÃèÊöĞÅÏ¢"  Ìá½»µ½±¾µØ¿â
+4.git commit -m "æè¿°ä¿¡æ¯"  æäº¤åˆ°æœ¬åœ°åº“
 
-5.git rm xxx.txt É¾³ıÎÄ¼ş
+5.git rm xxx.txt åˆ é™¤æ–‡ä»¶ git rm -r --cached   xxx
 
-6.git  log ²é¿´ÈÕÖ¾
+6.git  log æŸ¥çœ‹æ—¥å¿—
 
 
-7.git remote add origin https://github.com/HePeng11/GitPractice.git Ìí¼ÓÔ¶³Ì²Ö¿âµØÖ·
+7.git remote add origin https://github.com/HePeng11/GitPractice.git æ·»åŠ è¿œç¨‹ä»“åº“åœ°å€
 
-8.git push -u origin master ÍÆËÍµ½Ô¶³Ì²Ö¿â
+8.git push -u origin master æ¨é€åˆ°è¿œç¨‹ä»“åº“
 
-9. git remote add origin git@IP:relativeDir.git£¬Ìí¼ÓÍê³Éºó»áÔÚ±¾µØ.git/configÎÄ¼şÖĞ¿´µ½Ìí¼ÓµÄurl£¬Ò²¿ÉÒÔĞŞ¸ÄÕâ¸öurl
-   git pull origin master À­È¡Ô¶³Ì´úÂë
+9. git remote add origin git@IP:relativeDir.gitï¼Œæ·»åŠ å®Œæˆåä¼šåœ¨æœ¬åœ°.git/configæ–‡ä»¶ä¸­çœ‹åˆ°æ·»åŠ çš„urlï¼Œä¹Ÿå¯ä»¥ä¿®æ”¹è¿™ä¸ªurl
+   git pull origin master æ‹‰å–è¿œç¨‹ä»£ç 
 
-10 git branch ²é¿´·ÖÖ§
+10 git branch æŸ¥çœ‹åˆ†æ”¯
 
-11 git branch testBranch1 ´´½¨·ÖÖ§
+11 git branch testBranch1 åˆ›å»ºåˆ†æ”¯
 
-12 git checkout testBrach1 ÇĞ»»µ½·ÖÖ§
+12 git checkout testBrach1 åˆ‡æ¢åˆ°åˆ†æ”¯
 
-13 git merge testBranch1 Ö÷·ÖÖ§ºÏ²¢xxx·ÖÖ§
+13 git merge testBranch1 ä¸»åˆ†æ”¯åˆå¹¶xxxåˆ†æ”¯
